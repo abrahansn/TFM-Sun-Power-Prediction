@@ -30,5 +30,5 @@ predicción de la producción.
 y el futuro proyecto de producción para la descarga de datos de la API de la AEMET, que nos permitirá predecir la producción.
 
 5-. Para la visualización de los datos, y con el fin de mostrar un prototipo del panel de visualización buscado para este proyecto, se ha 
-creado un libro empaquetado de Tableau. En el cual se muestra, con los datos recogidos el día 10/01/2020, como quedaría dicho prototipo cuando
+creado un libro empaquetado de Tableau. En el cual se muestra, con los datos recogidos el día 9/01/2020, como quedaría dicho prototipo cuando
 se ejecute y ponga en producción.
