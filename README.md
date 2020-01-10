@@ -1,5 +1,7 @@
 # TFM-Sun-Power-Prediction
 
+ABRAHAN SANTANA NARANJO
+
 Predicción de valores de producció a partir de datos de meteorológicos.
 
 En este TFM se busca crear un prototipo que permita predecir la producciónde una central fotovoltaica a partir de los datos
